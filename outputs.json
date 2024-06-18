@@ -1,0 +1,16 @@
+{
+  "facts": {
+    "1": ["A", "shrimp's", "heart", "is", "located", "in", "its", "head."],    
+    "2": ["Koalas", "sleep", "up", "to", "22", "hours", "a", "day."],
+    "3": ["A", "group", "of", "flamingos", "is", "called", "a", "flamboyance."],
+    "4": ["Honey", "never", "spoils,", "it", "has", "an", "indefinite", "shelf", "life."],
+    "5": ["A", "jiffy", "is", "an", "actual", "unit", "of", "time,", "1/100th", "of", "a", "second."],
+    
+    "prompts":
+      "1": ["Close-up of a shrimp's head showing its heart", "Illustration of a shrimp anatomy"],
+      "2": ["Koala sleeping on a tree branch", "Multiple koalas sleeping on eucalyptus trees"],
+      "3": ["Group of flamingos standing in water", "Flamingos flying together in a formation"],
+      "4": ["Jar of honey with a honey dipper", "Ancient honey jar preserved over centuries"],
+      "5": ["Illustration of a jiffy unit of time", "High-speed clock showing 1/100th of a second"]
+    }
+}
